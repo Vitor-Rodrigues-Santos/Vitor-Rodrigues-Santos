@@ -27,7 +27,7 @@ Sou um apresiador da tecnologia que adora entender como as coisas funcionam por 
 
 ### 🛠️ Minhas Ferramentas & Tecnologias
 
-> Aqui estão as tecnologias que estou estudando no SENAI e explorando nos meus projetos pessoais:
+ Aqui estão as tecnologias que estou estudando no SENAI e explorando nos meus projetos pessoais:
 
 <div align="center">
   

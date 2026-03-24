@@ -10,10 +10,13 @@
 </div>
 
 ---
-
+<div align="center">
+  
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.pinterest.com/pin/hi-wave-sticker-hi-wave-discover-share-gifs--696369161169739818/)" width="250" alt="GIF animado de um desenvolvedor codando"><br>
+  
 ### 👨‍💻 Sobre mim
 
-Sou um entusiasta da tecnologia apaixonado por entender como as coisas funcionam por trás das telas. Acredito que o código é uma ferramenta poderosa para criar experiências intuitivas e resolver problemas reais.
+Sou um apresiador da tecnologia que adora entender como as coisas funcionam por trás das telas. Cada dia no SENAI eu descubro mais coisas 
 
 - 🎓 Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
 - 🌱 Aprendendo e me aprofundando em arquitetura de sistemas, lógica de programação e desenvolvimento web.

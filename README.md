@@ -15,9 +15,9 @@
   
 ### 👨‍💻 Sobre mim
 
-Sou um apresiador da tecnologia que adora entender como as coisas funcionam por trás das telas. Cada dia no SENAI eu descubro mais coisas 
+Sou um apresiador da tecnologia que adora entender como as coisas funcionam por trás das telas. Cada dia no SENAI eu descubro novas coisas e aprimoro meus conhecimentos, percebendo cada dia mais que é nesse ambiente em que eu quero estar.
 
-- 🎓 Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
+- 🎓 Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI A. Jacob Lafer**.
 - 🌱 Aprendendo e me aprofundando em arquitetura de sistemas, lógica de programação e desenvolvimento web.
 - 💡 Buscando sempre escrever códigos limpos, escaláveis e fáceis de entender.
 - 🎯 **Meu objetivo:** Me tornar um desenvolvedor Full Stack e contribuir para projetos que façam a diferença.
@@ -49,10 +49,4 @@ Sou um apresiador da tecnologia que adora entender como as coisas funcionam por 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Rodrigues-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Rodrigues-Santos&layout=compact&langs_count=7&theme=dracula"/>
 
-</div>
-
----
-
-<div align="center">
-  <em>"A única maneira de fazer um ótimo trabalho é amando o que você faz." - Steve Jobs</em>
 </div>

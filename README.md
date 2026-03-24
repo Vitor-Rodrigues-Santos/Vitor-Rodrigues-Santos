@@ -1,6 +1,8 @@
 # Vitor Rodrigues Santos
 
 <div align="center">
+
+  <img src="https://www.pinterest.com/pin/hi-wave-sticker-hi-wave-discover-share-gifs--696369161169739818/" width="250" alt="GIF de um gato digitando rápido no teclado"><br>
   
   # Olá! 👋 Sou o Vitor Rodrigues Santos
   **Desenvolvedor em Formação | Transformando lógica em soluções criativas**
@@ -10,9 +12,6 @@
 </div>
 
 ---
-<div align="center">
-  
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.pinterest.com/pin/hi-wave-sticker-hi-wave-discover-share-gifs--696369161169739818/)" width="250" alt="GIF animado de um emoji acenando"><br>
   
 ### 👨‍💻 Sobre mim
 

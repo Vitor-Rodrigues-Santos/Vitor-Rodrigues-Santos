@@ -18,7 +18,7 @@
 Sou um apresiador da tecnologia que adora entender como as coisas funcionam por trás das telas. Cada dia no SENAI eu descubro novas coisas e aprimoro meus conhecimentos, percebendo cada dia mais que é nesse ambiente em que eu quero estar.
 
 - 🎓 Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI A. Jacob Lafer**.
-- 🌱 Aprendendo e me aprofundando em arquitetura de sistemas, lógica de programação e desenvolvimento web.
+-  Aprendendo e me aprofundando em arquitetura de sistemas, lógica de programação e desenvolvimento web.
 - 💡 Buscando sempre escrever códigos limpos, escaláveis e fáceis de entender.
 - 🎯 **Meu objetivo:** Me tornar um desenvolvedor Full Stack e contribuir para projetos que façam a diferença.
 

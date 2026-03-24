@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://www.pinterest.com/pin/hi-wave-sticker-hi-wave-discover-share-gifs--696369161169739818/" width="250" alt="GIF de um gato digitando rápido no teclado"><br>
+  <img src="https://www.pinterest.com/pin/hi-wave-sticker-hi-wave-discover-share-gifs--696369161169739818/" width="250" alt="GIF de um emoji acenando"><br>
   
   # Olá! 👋 Sou o Vitor Rodrigues Santos
   **Desenvolvedor em Formação | Transformando lógica em soluções criativas**

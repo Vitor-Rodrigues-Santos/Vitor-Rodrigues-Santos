@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  # Olá! 👋 Sou o Vitor Rodrigues Santos
+  # Olá! Sou o Vitor Rodrigues Santos
   **Desenvolvedor em Formação | Transformando lógica em soluções criativas**
   
   [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.vrs.santos@gmail.com)

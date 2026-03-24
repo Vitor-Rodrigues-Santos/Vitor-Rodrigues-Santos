@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://www.pinterest.com/pin/hi-wave-sticker-hi-wave-discover-share-gifs--696369161169739818/" width="250" alt="GIF de um emoji acenando"><br>
+  <img src="https://i.pinimg.com/originals/29/3a/55/293a55a10b33f45c07ecea5420ec70a6.gif" width="250" alt="GIF de um emoji acenando"><br>
   
   # Olá! 👋 Sou o Vitor Rodrigues Santos
   **Desenvolvedor em Formação | Transformando lógica em soluções criativas**

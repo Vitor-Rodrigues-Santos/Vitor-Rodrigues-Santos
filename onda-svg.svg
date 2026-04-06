@@ -1,0 +1,31 @@
+<svg viewBox="0 0 650 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Segoe UI', Arial, sans-serif; 
+      font-size: 26px; 
+      font-weight: bold; 
+      fill: #2da44e; /* Cor verde do GitHub */
+      animation: wave 1.5s ease-in-out infinite;
+    }
+    @keyframes wave { 
+      0%, 100% { transform: translateY(0px); } 
+      50% { transform: translateY(-10px); } 
+    }
+    .w1 { animation-delay: 0.0s; } 
+    .w2 { animation-delay: 0.1s; } 
+    .w3 { animation-delay: 0.2s; }
+    .w4 { animation-delay: 0.3s; } 
+    .w5 { animation-delay: 0.4s; } 
+    .w6 { animation-delay: 0.5s; }
+    .w7 { animation-delay: 0.6s; } 
+    .w8 { animation-delay: 0.7s; }
+  </style>
+  <text x="10" y="50" class="text w1">Muito</text>
+  <text x="90" y="50" class="text w2">bem</text>
+  <text x="148" y="50" class="text w3">vindo(a)!</text>
+  <text x="270" y="50" class="text w4">Sou</text>
+  <text x="325" y="50" class="text w5">o</text>
+  <text x="350" y="50" class="text w6">Vitor</text>
+  <text x="420" y="50" class="text w7">Rodrigues</text>
+  <text x="545" y="50" class="text w8">Santos</text>
+</svg>

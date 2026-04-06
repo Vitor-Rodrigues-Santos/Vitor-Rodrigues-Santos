@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  # ![Efeito de Onda](./onda.svg)
+  # ![Efeito de Onda](https://github.com/Vitor-Rodrigues-Santos/Vitor-Rodrigues-Santos/blob/main/onda-svg.svg)
   **Desenvolvedor em Formação | Transformando lógica em soluções criativas**
   
 

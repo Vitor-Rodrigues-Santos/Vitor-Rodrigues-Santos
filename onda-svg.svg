@@ -4,21 +4,19 @@
       font-family: 'Segoe UI', Arial, sans-serif; 
       font-size: 26px; 
       font-weight: bold; 
-      fill: #2da44e; /* Cor verde do GitHub */
       animation: wave 1.5s ease-in-out infinite;
     }
     @keyframes wave { 
       0%, 100% { transform: translateY(0px); } 
       50% { transform: translateY(-10px); } 
     }
-    /* As animações w7 e w8 foram unificadas */
-    .w1 { animation-delay: 0.0s; } 
-    .w2 { animation-delay: 0.1s; } 
-    .w3 { animation-delay: 0.2s; }
-    .w4 { animation-delay: 0.3s; } 
-    .w5 { animation-delay: 0.4s; } 
-    .w6 { animation-delay: 0.5s; }
-    .w7 { animation-delay: 0.6s; }
+    .w1 { animation-delay: 0.0s; fill: #9c27b0; } 
+    .w2 { animation-delay: 0.1s; fill: #00bcd4; } 
+    .w3 { animation-delay: 0.2s; fill: #8bc34a; }
+    .w4 { animation-delay: 0.3s; fill: #ffeb3b; } 
+    .w5 { animation-delay: 0.4s; fill: #ff9800; } 
+    .w6 { animation-delay: 0.5s; fill: #e91e63; }
+    .w7 { animation-delay: 0.6s; fill: #9c27b0; } 
   </style>
   <text x="10" y="50" class="text w1">Muito</text>
   <text x="90" y="50" class="text w2">bem</text>

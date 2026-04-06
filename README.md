@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  # Muito bem vindo(a)! Sou o Vitor Rodrigues Santos
+  # [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Muito+bem+vindo(a)!;Sou+o+Vitor+Rodrigues+Santos)](https://git.io/typing-svg)
   **Desenvolvedor em Formação | Transformando lógica em soluções criativas**
   
 

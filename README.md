@@ -46,8 +46,11 @@ Sou um apresiador da tecnologia que adora entender como as coisas funcionam por 
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Vitor-Rodrigues-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Vitor-Rodrigues-Santos&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Repos por Linguagem" />
+</p>
 </div>

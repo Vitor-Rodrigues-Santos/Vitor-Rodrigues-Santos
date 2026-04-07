@@ -51,6 +51,5 @@ Sou um apresiador da tecnologia que adora entender como as coisas funcionam por 
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-Rodrigues-Santos&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor-Rodrigues-Santos&theme=tokyonight" alt="Repos por Linguagem" />
 </p>
 </div>

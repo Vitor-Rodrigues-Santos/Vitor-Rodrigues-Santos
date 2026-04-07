@@ -47,9 +47,6 @@ Sou um apresiador da tecnologia que adora entender como as coisas funcionam por 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-Rodrigues-Santos&theme=tokyonight" alt="Profile Details" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-Rodrigues-Santos&theme=tokyonight" alt="Stats" />
 </p>
 </div>

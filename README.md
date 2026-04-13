@@ -46,7 +46,7 @@ Aqui estão as tecnologias que estou estudando no SENAI e explorando nos meus pr
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
 

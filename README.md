@@ -18,11 +18,11 @@
   
 ### 👨‍💻 Sobre mim
 
-Sou uma pessoa que gosta de desvendar a tecnologia por trás das interfaces. No SENAI, refino meu código e minha visão técnica todos os dias. Focado em aprender, construir e evoluir no mundo do desenvolvimento web.
+Sou uma pessoa que gosta de desvendar a tecnologia por trás das interfaces. No SENAI, refino meu código e minha visão técnica todas as segundas e terças-feiras. Focado em aprender, construir e evoluir no mundo do desenvolvimento web.
 
 -  Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI A. Jacob Lafer**.
 -  Aprendendo e me aprofundando em arquitetura de sistemas, lógica de programação e desenvolvimento web.
--  Buscando sempre escrever códigos limpos, escaláveis e fáceis de entender.
+-  Sou uma pessoa proativa, comunicativa e com facilidade em aprender coisas novas.
 -  **Meu objetivo:** Desenvolvedor front-end em formação.
 
 ---
@@ -52,7 +52,7 @@ Aqui estão as tecnologias que estou estudando no SENAI e explorando nos meus pr
 
 <br>
 
-### 📊 Ferramentas de Escritório
+### 📝 Ferramentas de Escritório
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;&nbsp;

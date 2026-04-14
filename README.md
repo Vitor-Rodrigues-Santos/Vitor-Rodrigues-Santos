@@ -57,9 +57,9 @@ Aqui estão as tecnologias que estou estudando no SENAI e explorando nos meus pr
 ### 📝 Ferramentas de Escritório
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" title="Word" alt="Word" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" title="PowerPoint" alt="PowerPoint" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" title="Word" alt="Word" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" title="PowerPoint" alt="PowerPoint" width="50" height="50"/>
 </div>
 
 ---

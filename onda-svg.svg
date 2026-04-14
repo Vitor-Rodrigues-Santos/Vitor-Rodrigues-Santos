@@ -4,14 +4,25 @@
       font-family: 'Segoe UI', Arial, sans-serif; 
       font-size: 26px; 
       font-weight: bold; 
-      fill: #a600ff; /* Cor roxa do GitHub */
-      animation: wave 1.5s ease-in-out infinite;
+      /* A mágica acontece aqui: chamamos a animação 'wave' e a animação 'cores' juntas */
+      animation: wave 1.5s ease-in-out infinite, cores 6s infinite alternate;
     }
+
+    /* Animação do pulinho (Onda) */
     @keyframes wave { 
       0%, 100% { transform: translateY(0px); } 
       50% { transform: translateY(-10px); } 
     }
-    /* As animações w7 e w8 foram unificadas */
+
+    /* Animação da troca de cores */
+    @keyframes cores {
+      0%   { fill: #a600ff; } /* Cor roxa original */
+      33%  { fill: #ff0066; } /* Rosa */
+      66%  { fill: #00ccff; } /* Azul claro */
+      100% { fill: #00ff99; } /* Verde água */
+    }
+
+    /* Os atrasos criam o efeito de onda tanto no pulo quanto na cor! */
     .w1 { animation-delay: 0.0s; } 
     .w2 { animation-delay: 0.1s; } 
     .w3 { animation-delay: 0.2s; }
@@ -20,6 +31,7 @@
     .w6 { animation-delay: 0.5s; }
     .w7 { animation-delay: 0.6s; }
   </style>
+
   <text x="10" y="50" class="text w1">Muito</text>
   <text x="90" y="50" class="text w2">bem</text>
   <text x="148" y="50" class="text w3">vindo(a)!</text>

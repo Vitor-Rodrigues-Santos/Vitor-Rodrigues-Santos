@@ -6,12 +6,11 @@
   **Desenvolvedor em Formação | Transformando lógica em soluções criativas**
   
 
-  [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.vrs.santos@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511971085119)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-rodrigues-santos-280210401/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Algum_Vitu/)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Xvitus)
-  
+  <a href="mailto:vitor.vrs.santos@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" title="Email" alt="Email" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://wa.me/5511971085119" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" title="WhatsApp" alt="WhatsApp" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vitor-rodrigues-santos-280210401/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/Algum_Vitu/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" alt="Instagram" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/Xvitus" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" title="Discord" alt="Discord" width="40" height="40"/></a>
 </div>
 
 ---
@@ -35,7 +34,6 @@ Aqui estão as tecnologias que estou estudando no SENAI e explorando nos meus pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/github/white" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;

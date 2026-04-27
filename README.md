@@ -4,13 +4,9 @@
   
    ![Efeito de Onda](https://github.com/Vitor-Rodrigues-Santos/Vitor-Rodrigues-Santos/blob/main/onda-svg.svg)
   **Desenvolvedor em Formação | Transformando lógica em soluções criativas**
-  
 
-  <a href="mailto:vitor.vrs.santos@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" title="Email" alt="Email" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://wa.me/5511971085119" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" title="WhatsApp" alt="WhatsApp" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vitor-rodrigues-santos-280210401/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Algum_Vitu/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" alt="Instagram" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/Xvitus" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" title="Discord" alt="Discord" width="40" height="40"/></a>
+[![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=40)](mailto:vitor.vrs.santos@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://api.iconify.design/bi:linkedin.svg?color=%230077b5&width=40)](https://www.linkedin.com/in/vitor-rodrigues-santos-280210401/) &nbsp;&nbsp;&nbsp;&nbsp; [![WhatsApp](https://api.iconify.design/bi:whatsapp.svg?color=%2325D366&width=40)](https://wa.me/5511971085119) &nbsp;&nbsp;&nbsp;&nbsp; [![Instagram](https://api.iconify.design/bi:instagram.svg?color=%23E4405F&width=40)](https://www.instagram.com/Algum_Vitu/) &nbsp;&nbsp;&nbsp;&nbsp; [![Discord](https://api.iconify.design/bi:discord.svg?color=%235865F2&width=40)](https://discord.com/users/Xvitus)
+
 </div>
 
 ---
@@ -19,10 +15,10 @@
 
 Sou uma pessoa que gosta de desvendar a tecnologia por trás das interfaces. No SENAI, refino meu código e minha visão técnica todas as segundas e terças-feiras. Focado em aprender, construir e evoluir no mundo do desenvolvimento web.
 
--  Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI A. Jacob Lafer**.
--  Aprendendo e me aprofundando em arquitetura de sistemas, lógica de programação e desenvolvimento web.
--  Sou uma pessoa proativa, comunicativa e com facilidade em aprender coisas novas.
--  **Meu objetivo:** Desenvolvedor front-end em formação.
+- Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI A. Jacob Lafer**.
+- Aprendendo e me aprofundando em arquitetura de sistemas, lógica de programação e desenvolvimento web.
+- Sou uma pessoa proativa, comunicativa e com facilidade em aprender coisas novas.
+- **Meu objetivo:** Desenvolvedor front-end em formação.
 
 ---
 ### 🛠️ Minhas Ferramentas & Tecnologias
@@ -30,14 +26,9 @@ Sou uma pessoa que gosta de desvendar a tecnologia por trás das interfaces. No 
 Aqui estão as tecnologias que estou estudando no SENAI e explorando nos meus projetos pessoais:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/white" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gamemaker/white" title="GameMaker" alt="GameMaker" width="40" height="40"/>
+
+![HTML5](https://api.iconify.design/logos:html-5.svg?width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![CSS3](https://api.iconify.design/logos:css-3.svg?width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://api.iconify.design/logos:javascript.svg?width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://api.iconify.design/logos:python.svg?width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![Git](https://api.iconify.design/logos:git-icon.svg?width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![MySQL](https://api.iconify.design/logos:mysql.svg?width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub](https://api.iconify.design/bi:github.svg?color=white&width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![GameMaker](https://api.iconify.design/simple-icons:gamemaker.svg?color=white&width=40)
+
 </div>
 
 <br>
@@ -45,19 +36,19 @@ Aqui estão as tecnologias que estou estudando no SENAI e explorando nos meus pr
 ### 🎨 Design & Prototipagem
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/canva.png" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+
+![Photoshop](https://api.iconify.design/logos:adobe-photoshop.svg?width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![Canva](https://api.iconify.design/devicon:canva.svg?width=40) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Figma](https://api.iconify.design/logos:figma.svg?width=35)
+
 </div>
 
 <br>
 
-### 📝 Ferramentas de Escritório
+### 📝 Pacote Office
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" title="Word" alt="Word" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" title="PowerPoint" alt="PowerPoint" width="50" height="50"/>
+
+![Excel](https://api.iconify.design/vscode-icons:file-type-excel.svg?width=50) &nbsp;&nbsp;&nbsp;&nbsp; ![Word](https://api.iconify.design/vscode-icons:file-type-word.svg?width=50) &nbsp;&nbsp;&nbsp;&nbsp; ![PowerPoint](https://api.iconify.design/vscode-icons:file-type-powerpoint.svg?width=50)
+
 </div>
 
 ---

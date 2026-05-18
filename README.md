@@ -17,7 +17,7 @@ Sou uma pessoa que gosta de desvendar a tecnologia por trás das interfaces. No 
 
 - Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI A. Jacob Lafer**.
 - Aprendendo e me aprofundando em arquitetura de sistemas, lógica de programação e desenvolvimento web.
-- Sou uma pessoa proativa, comunicativa e com facilidade em aprender coisas novas.
+- Sou uma pessoa proativa, criativa e com facilidade em aprender coisas novas.
 - **Meu objetivo:** Desenvolvedor front-end em formação.
 
 ---

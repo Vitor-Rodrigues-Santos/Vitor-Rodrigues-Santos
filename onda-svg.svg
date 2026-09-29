@@ -4,17 +4,15 @@
       font-family: 'Segoe UI', Arial, sans-serif; 
       font-size: 26px; 
       font-weight: bold; 
-      /* A mágica acontece aqui: chamamos a animação 'wave' e a animação 'cores' juntas */
+    
       animation: wave 1.5s ease-in-out infinite, cores 6s infinite alternate;
     }
 
-    /* Animação do pulinho (Onda) */
     @keyframes wave { 
       0%, 100% { transform: translateY(0px); } 
       50% { transform: translateY(-10px); } 
     }
 
-    /* Animação da troca de cores */
     @keyframes cores {
       0%   { fill: #a600ff; } /* Cor roxa original */
       33%  { fill: #ff0066; } /* Rosa */
@@ -22,7 +20,6 @@
       100% { fill: #00ff99; } /* Verde água */
     }
 
-    /* Os atrasos criam o efeito de onda tanto no pulo quanto na cor! */
     .w1 { animation-delay: 0.0s; } 
     .w2 { animation-delay: 0.1s; } 
     .w3 { animation-delay: 0.2s; }
